@@ -13,7 +13,5 @@ Description :
 This repository is created to learn `GIT` from basics.
 
 Developer Name:
-1) Anuj Shah
-2) Vivek Yadav
-
-
+1) Vivek Yadav <viveky1794@gmail.com>
+2) Anuj Shah <Add your mail id>
