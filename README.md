@@ -8,3 +8,12 @@ This git repo is to learn how to:
 5. Release
 6. Tag
 7. Etc....
+
+Description :
+This repository is created to learn `GIT` from basics.
+
+Developer Name:
+1) Anuj Shah
+2) Vivek Yadav
+
+
